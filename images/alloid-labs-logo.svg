@@ -34,7 +34,7 @@
     </radialGradient>
   </defs>
   
-  <rect width="512" height="512" rx="64" fill="#101C24"/>
+  <rect width="512" height="512" rx="64" fill="#2A4050"/>
   <ellipse cx="256" cy="215" rx="170" ry="190" fill="url(#bg5b)"/>
   
   <!-- === MAIN CRYSTAL A (same as V4a) === -->
@@ -52,9 +52,9 @@
   <polygon points="274,270 294,270 335,272 342,370 334,370" fill="#5C98B8" opacity="0.45"/>
   
   <!-- VOIDS -->
-  <polygon points="256,188 230,250 282,250" fill="#101C24" opacity="0.6"/>
-  <polygon points="238,270 274,270 282,250 230,250" fill="#101C24" opacity="0.45"/>
-  <polygon points="218,270 294,270 342,370 170,370" fill="#101C24" opacity="0.5"/>
+  <polygon points="256,188 230,250 282,250" fill="#2A4050" opacity="0.6"/>
+  <polygon points="238,270 274,270 282,250 230,250" fill="#2A4050" opacity="0.45"/>
+  <polygon points="218,270 294,270 342,370 170,370" fill="#2A4050" opacity="0.5"/>
   
   <!-- CRYSTALLINE DETAILS -->
   <line x1="256" y1="68" x2="256" y2="188" stroke="#E4F2FA" stroke-width="2" opacity="0.6"/>

@@ -35,7 +35,7 @@
   </defs>
   
   <!-- Background -->
-  <rect width="1200" height="630" fill="#101C24"/>
+  <rect width="1200" height="630" fill="#2A4050"/>
   <ellipse cx="350" cy="315" rx="280" ry="300" fill="url(#bgG)"/>
   
   <!-- Crystal A icon - positioned left of center -->
@@ -66,9 +66,9 @@
     <polygon points="256,88 256,228 282,290 320,290" fill="#7CB0CC" opacity="0.55"/>
     <polygon points="320,290 282,290 274,310 294,310 335,312" fill="url(#bR5b)"/>
     <polygon points="274,310 294,310 335,312 342,410 334,410" fill="#5C98B8" opacity="0.45"/>
-    <polygon points="256,228 230,290 282,290" fill="#101C24" opacity="0.6"/>
-    <polygon points="238,310 274,310 282,290 230,290" fill="#101C24" opacity="0.45"/>
-    <polygon points="218,310 294,310 342,410 170,410" fill="#101C24" opacity="0.5"/>
+    <polygon points="256,228 230,290 282,290" fill="#2A4050" opacity="0.6"/>
+    <polygon points="238,310 274,310 282,290 230,290" fill="#2A4050" opacity="0.45"/>
+    <polygon points="218,310 294,310 342,410 170,410" fill="#2A4050" opacity="0.5"/>
     <line x1="256" y1="88" x2="256" y2="228" stroke="#E4F2FA" stroke-width="2" opacity="0.6"/>
     <line x1="218" y1="180" x2="162" y2="385" stroke="#78A8C4" stroke-width="0.7" opacity="0.18"/>
     <line x1="296" y1="180" x2="354" y2="385" stroke="#A4CCE0" stroke-width="0.7" opacity="0.2"/>
